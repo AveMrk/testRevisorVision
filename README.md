@@ -5,14 +5,14 @@
 ## Требования:
 
  1. Во Frontend части вашего приложения разрешается использовать ТОЛЬКО:          
-  * create-react-app и все библиотеки с ним связанные
-  * react-router-dom
-  * axios 
-  * typescript обязателен!
-  * redux\react-redux, Redux toolkit
-  * styled-jsx, classnames, css модули
-  * babel\eslint\prettier
-  * TanStack Query v5
+    * create-react-app и все библиотеки с ним связанные
+    * react-router-dom
+    * axios 
+    * typescript обязателен!
+    * redux\react-redux, Redux toolkit
+    * styled-jsx, classnames, css модули
+    * babel\eslint\prettier
+    * TanStack Query v5
 2. Ваш проект должен содержать 2 страницы: “Каталог” и “избранное”. Каталог является главной страницей
 3. В каталоге должен отображаться список пользователей со вложенными списками альбомов и их фотографий.
 4. При клике на пользователя должен открываться список альбомов пользователя
